@@ -8,7 +8,7 @@ All one needs to do is place `.erl` files into a `src` directory.
 
 ## Requirements
 
-You ned to have Elixir installed.
+You need to have Elixir installed.
 
 ## Running
 
